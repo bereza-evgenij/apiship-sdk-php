@@ -1,5 +1,5 @@
 {
-  "name": "apiship/apiship-sdk-php",
+  "name": "bereza-evgenij/apiship-sdk-php",
   "description": "Inegration (SDK) with Apiship API",
   "keywords": [
     "Apiship",
@@ -11,8 +11,8 @@
   "type": "extension",
   "authors": [
     {
-      "name": "ApiShip",
-      "email": "info@apiship.ru"
+      "name": "Greensight",
+      "email": "mail@greensight.ru"
     }
   ],
   "autoload": {
